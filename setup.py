@@ -4,7 +4,7 @@ install_requires = [
 ]
 
 setup(
-    name='my-func-lib',
+    name='MyTestFunctions',
     version='1.0.0',
     author='ashish',
     author_email='ashishpatil2@icloud.com',
