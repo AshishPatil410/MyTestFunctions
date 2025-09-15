@@ -6,7 +6,6 @@ install_requires = [
 setup(
     name='MyTestFunctions',
     version='1.0.0',
-    packages=find_packages(),
     author='ashish',
     author_email='ashishpatil2@icloud.com',
     description='This package contains test functions to learn pytest',
