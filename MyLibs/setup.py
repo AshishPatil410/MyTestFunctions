@@ -4,7 +4,7 @@ install_requires = [
 ]
 
 setup(
-    name='MyTestFunctions',
+    name='MyLibs',
     version='1.0.0',
     author='ashish',
     author_email='ashishpatil2@icloud.com',
@@ -19,6 +19,6 @@ setup(
         'Natural Language :: English',
         'Operating System :: OS Independent',
         'Programming Language :: Python'
-    ],
+    ]
 )
 
