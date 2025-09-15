@@ -4,7 +4,7 @@ install_requires = [
 ]
 
 setup(
-    name='MyLibs',
+    name='MyTestFunctions',
     version='1.0.0',
     packages=find_packages(),
     author='ashish',
