@@ -5,12 +5,11 @@ install_requires = [
 
 setup(
     name='MyTestFunctions',
-    version='1.0.0',
-    packages=find_packages(),
+    version='0.1.0',
     author='ashish',
     author_email='ashishpatil2@icloud.com',
     description='This package contains test functions to learn pytest',
-    python_requires='>=3.6',
+    python_requires='>=3.7',
     install_requires=install_requires,
     include_package_data=True,
     classifiers=[
@@ -22,4 +21,3 @@ setup(
         'Programming Language :: Python'
     ]
 )
-
